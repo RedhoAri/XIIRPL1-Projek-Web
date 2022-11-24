@@ -1,9 +1,9 @@
-# XIIRPL1-Projek-
+# XIIRPL1-Projek-Web
 XIIRPL1-GROUP-A	PENILAIAN
 Kelompok 1:	95
   - Novri	90					
   - Citra	80	
-  - Septi	90
+  - Septi	90		
   - Egi		85
 Kelompok 2:	90
   - Ayu		90
