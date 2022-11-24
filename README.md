@@ -24,13 +24,13 @@ Kelompok 5:
   - Dilan	
 	
 XIIRPL1-GROUP-B	
-Kelompok 1 :	
+Kelompok 1 :	90
   - Asri	90
   - Dwi		85
   - Amanda	85
-  - Iboy	
+  - Iboy	80
 Kelompok 2 :	95	
-  - ifa		80
+  - ifa		80	90
   - Reni	90
   - Sevia	80
 Kelompok 3 :	
