@@ -1,13 +1,13 @@
 # XIIRPL1-Projek-
 XIIRPL1-GROUP-A	PENILAIAN
-Kelompok 1:	90
-  - Novri	90
+Kelompok 1:	95
+  - Novri	90					
   - Citra	80	
   - Septi	90
   - Egi		85
-Kelompok 2:	
+Kelompok 2:	90
   - Ayu		90
-  - Anggi	
+  - Anggi	80
   - Aisa	80
 Kelompok 3:	
   - Dinda	90
@@ -16,7 +16,7 @@ Kelompok 3:
 Kelompok 4:	
   - Fahmi	90
   - Fauzy	
-  - Dimas	
+  - Dimas	80
   - Imelda	85
 Kelompok 5:	
   - Rizky	
@@ -29,7 +29,7 @@ Kelompok 1 :
   - Dwi		85
   - Amanda	85
   - Iboy	
-Kelompok 2 :	90	
+Kelompok 2 :	95	
   - ifa		80
   - Reni	90
   - Sevia	80
@@ -37,7 +37,7 @@ Kelompok 3 :
   - Sofia	90
   - Mia		80
   - Dina	
-Kelompok 4 :	90
+Kelompok 4 :	95
   - Widiya	85
   - Ramadhanu	85
   - Saiqah	85
