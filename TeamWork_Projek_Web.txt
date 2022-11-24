@@ -1,0 +1,30 @@
+TuGAS:
+P5
+1. MEMBUAT DATABASE_PERPUSTAKAAN
+ - t_Kategori
+ - t_Buku
+ - t_Anggota
+ - t_Peminjaman
+ - t_Detail_pinjam
+ - t_Admin
+ - t_Transaksi
+2. Konfigurasi (URL, Config, Bootstrap)
+3. model dengan nama M_perpus.php
+
+P6
+1. Form login akan kita buat pada controller Welcome.php
+2. Login.php nya.
+Application/view/login.php
+3. form handler dari form login.
+
+4. Admin.php
+Application/controller/Admin.php
+5. application/views/admin/header.php
+6. application/views/admin/index.php
+7. Application/views/admin/footer.php
+
+8 SET function/method logout di controller admin.
+9. Application/view/admin/ganti_password.php
+
+10. "MEMBUAT CRUD DATABUKU
+11. "MEMBUAT TRANSAKSI PINJAM
