@@ -9,13 +9,13 @@ Kelompok 2:	90
   - Ayu		90
   - Anggi	80
   - Aisa	80
-Kelompok 3:	
+Kelompok 3:	85
   - Dinda	90
   - Aulia	85
-  - Lizda	
-Kelompok 4:	
+  - Lizda	80
+Kelompok 4:	85
   - Fahmi	90
-  - Fauzy	
+  - Fauzy	80
   - Dimas	80
   - Imelda	85
 Kelompok 5:	
@@ -33,10 +33,10 @@ Kelompok 2 :	95
   - ifa		80	90
   - Reni	90
   - Sevia	80
-Kelompok 3 :	
+Kelompok 3 :	85
   - Sofia	90
   - Mia		80
-  - Dina	
+  - Dina	80
 Kelompok 4 :	95
   - Widiya	85
   - Ramadhanu	85
@@ -45,4 +45,4 @@ Kelompok 5 :
   - Cici	
   - Indri	
   - Samuel	
-  - Azmi	
+  - Azmi	80
