@@ -1,27 +1,27 @@
 # XIIRPL1-Projek-Web
 XIIRPL1-GROUP-A	PENILAIAN
 Kelompok 1:	95
-  - Novri	90					
-  - Citra	80	
-  - Septi	90		
-  - Egi		85
+  -(K) Novri	90					
+  - 1. Citra	80	
+  - 2. Septi	90		
+  - 3. Egi	85
 Kelompok 2:	90
- - Ayu		90
- - Anggi	80
- - Aisa	80
+ -(K) Ayu	90
+ - 1. Anggi	80
+ - 2. Aisa	80
 Kelompok 3:	85
- - Dinda	90
- - Aulia	85
- - Lizda	80
+ -(K) Dinda	90
+ - 1. Aulia	85
+ - 2. Lizda	80
 Kelompok 4:	85
- - Fahmi	90
- - Fauzy	80
- - Dimas	80
- - Imelda	85
+ -(K) Fahmi	90
+ - 1. Fauzy	80
+ - 2. Dimas	80
+ - 3. Imelda	85
 Kelompok 5:	
- - Rizky	
- - Abdi H	80
- - Dilan	
+ -(K) Rizky	
+ - 1. Abdi H	80
+ - 2. Dilan	80
 	
 XIIRPL1-GROUP-B	
 Kelompok 1 :	90
